@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tw01YzFl5WmfWPkk68A+De2n7MY5xfHpQ+1kY7MiqNY=",
+  "Source": "TicketMaestroBackend",
+  "BasePath": "_content/TicketMaestroBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

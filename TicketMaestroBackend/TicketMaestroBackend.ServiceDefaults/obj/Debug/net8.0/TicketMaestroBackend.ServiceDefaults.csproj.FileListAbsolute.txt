@@ -1,0 +1,13 @@
+D:\Programming\TicketMaestro\TicketMaestroBackend\TicketMaestroBackend.ServiceDefaults\bin\Debug\net8.0\TicketMaestroBackend.ServiceDefaults.deps.json
+D:\Programming\TicketMaestro\TicketMaestroBackend\TicketMaestroBackend.ServiceDefaults\bin\Debug\net8.0\TicketMaestroBackend.ServiceDefaults.dll
+D:\Programming\TicketMaestro\TicketMaestroBackend\TicketMaestroBackend.ServiceDefaults\bin\Debug\net8.0\TicketMaestroBackend.ServiceDefaults.pdb
+D:\Programming\TicketMaestro\TicketMaestroBackend\TicketMaestroBackend.ServiceDefaults\obj\Debug\net8.0\TicketMaestroBackend.ServiceDefaults.csproj.AssemblyReference.cache
+D:\Programming\TicketMaestro\TicketMaestroBackend\TicketMaestroBackend.ServiceDefaults\obj\Debug\net8.0\TicketMaestroBackend.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\TicketMaestro\TicketMaestroBackend\TicketMaestroBackend.ServiceDefaults\obj\Debug\net8.0\TicketMaestroBackend.ServiceDefaults.AssemblyInfoInputs.cache
+D:\Programming\TicketMaestro\TicketMaestroBackend\TicketMaestroBackend.ServiceDefaults\obj\Debug\net8.0\TicketMaestroBackend.ServiceDefaults.AssemblyInfo.cs
+D:\Programming\TicketMaestro\TicketMaestroBackend\TicketMaestroBackend.ServiceDefaults\obj\Debug\net8.0\TicketMaestroBackend.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\Programming\TicketMaestro\TicketMaestroBackend\TicketMaestroBackend.ServiceDefaults\obj\Debug\net8.0\TicketMaestroBackend.ServiceDefaults.sourcelink.json
+D:\Programming\TicketMaestro\TicketMaestroBackend\TicketMaestroBackend.ServiceDefaults\obj\Debug\net8.0\TicketMaestroBackend.ServiceDefaults.dll
+D:\Programming\TicketMaestro\TicketMaestroBackend\TicketMaestroBackend.ServiceDefaults\obj\Debug\net8.0\refint\TicketMaestroBackend.ServiceDefaults.dll
+D:\Programming\TicketMaestro\TicketMaestroBackend\TicketMaestroBackend.ServiceDefaults\obj\Debug\net8.0\TicketMaestroBackend.ServiceDefaults.pdb
+D:\Programming\TicketMaestro\TicketMaestroBackend\TicketMaestroBackend.ServiceDefaults\obj\Debug\net8.0\ref\TicketMaestroBackend.ServiceDefaults.dll
